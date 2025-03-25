@@ -1,0 +1,1 @@
+Aqui ficam os arquivos .pem gerados pelo mkcert.
